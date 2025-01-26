@@ -5,7 +5,7 @@ We are developing an archive of lighting designs for the performing arts.
 A place where practicioners, researchers and students can view the work of other professionals.
 
 ## Project Status
-– 🌱 At the moment the project is just getting started. We are still building the website and exploring how this might work.
+- 🌱 At the moment the project is just getting started. We are still building the website and exploring how this might work.
 - 💡 We are hoping to launch the website in 2025, but no promises...
 - ☕ Is going to be key to this project.
 
