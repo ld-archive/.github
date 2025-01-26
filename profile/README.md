@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the home of the LD Archive. You can find us on the web at [ld-archive.org](https://www.ld-archive.org). 
-We are developing an achive of lighting design for the performing arts.
+We are developing an archive of lighting designs for the performing arts.
 A place where practicioners, researchers and students can view the work of other professionals.
 
 ## Project Status
