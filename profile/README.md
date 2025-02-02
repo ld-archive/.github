@@ -27,8 +27,11 @@ Continual professional developemnt is hard as a freelance creative, sharing is t
 ### Funding
 We are currently exploring funding options. Have money? Get in touch!
 
-### Help with Development
-We are of course interested in help with website development. If you are interested in helping please say hello. Small and large support is welcomed.
+## Help with Development
+We are of course interested in help with website development. 
+If you are interested in helping please say hello. Small and large support is welcomed. 
+At the moment we are just starting out.
+If you would like to be involved in a project from the ground up, now is the time.
 
 ## Get in Touch
 You can find us and get in touch in the following ways:
