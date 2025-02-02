@@ -31,5 +31,6 @@ We are currently exploring funding options. Have money? Get in touch!
 We are of course interested in help with website development. If you are interested in helping please say hello. Small and large support is welcomed.
 
 ## Get in Touch
+You can find us and get in touch in the following ways:
 - [contact@ld-archive.org](mailto:contact@ld-archive.org)
 - [ld-archive.org](https://ld-archive.org)
